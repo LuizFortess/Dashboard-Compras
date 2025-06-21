@@ -1,4 +1,4 @@
-Dashboard de Análise de Compras
+-Dashboard de Análise de Compras
 Este dashboard em Power BI foi desenvolvido para oferecer uma análise detalhada do comportamento de compras, permitindo insights sobre gastos, produtos e desempenho de fornecedores. O objetivo é fornecer uma visão clara e interativa dos dados para tomada de decisões estratégicas.
 
 Principais Recursos e Análises
